@@ -1,3 +1,4 @@
 Stille Post!
-Kann jeder die Änderungen bei sich sähen?
-Commit by djpittner!
+Kann jeder die Änderungen bei sich sehen?
+Ja kann ich!
+djpittner commit
